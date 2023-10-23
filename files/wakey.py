@@ -22,8 +22,6 @@ def loader(file_path):
     config.update(json.load(f))
     token = config["token"]
     server = config["server"]
-    print(token)
-    print(server)
 
 # Define the wakey command and generate a button for each server
 async def wakey(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
