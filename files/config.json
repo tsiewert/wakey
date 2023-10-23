@@ -1,0 +1,8 @@
+{
+  "token" : "<your API token>",
+  "server" : {
+      "<server name 1>" : "<mac addr. 1>",
+      "<server name 2>" : "<mac addr. 2>",
+      ...
+  }
+}
