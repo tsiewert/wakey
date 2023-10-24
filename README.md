@@ -19,7 +19,7 @@ Dependencies, which worked so far:
 
 # Usage
 
-## Server list
+## Configuration File
 Now we have to create a list of the servers, which we would like to wake up with the bot.
 For that, create an empty json file like `config.json`:
 ```
